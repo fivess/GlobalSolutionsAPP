@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914408909703",
+    "project_id": "agro-noobs",
+    "storage_bucket": "agro-noobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914408909703:android:a42fb65ee9aeaa218a8122",
+        "android_client_info": {
+          "package_name": "br.com.noobs.agronoobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFAmrxEE0oPNnXe6xDuhWN2SlpBG7Ppw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
